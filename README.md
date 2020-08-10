@@ -1,2 +1,3 @@
 # chopsticks-game
-A Java game using JavaFX
+
+The Chopsticks Game made in Java using JavaFX
